@@ -8,7 +8,6 @@ Skills: React, React Native, Express, Postgres, SQLite, Java, C#, Python
 - ⚡ Fun fact: I am a professional cat lady 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carrotbeetrice)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrotbeetrice)](https://github.com/anuraghazra/github-readme-stats)
 
